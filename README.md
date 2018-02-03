@@ -1,2 +1,2 @@
-# irt-010-clone
-hw work assignment
+# irt-010-clone assignment
+
